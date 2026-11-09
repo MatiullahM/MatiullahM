@@ -58,4 +58,3 @@ I enjoy solving real-world problems, designing efficient database structures, an
 
 <img src="https://skillicons.dev/icons?i=python,django,js,angular,html,css,bootstrap,postgres,mysql,sqlite,docker,redis,git,github" />
 
-https://github.com/anuraghazra/github-readme-stats?utm_source=chatgpt.com
