@@ -55,3 +55,5 @@ I enjoy solving real-world problems, designing efficient database structures, an
 ---
 
 ⭐ Thanks for visiting my profile!
+
+<img src="https://skillicons.dev/icons?i=python,django,js,angular,html,css,bootstrap,postgres,mysql,sqlite,docker,redis,git,github" />
